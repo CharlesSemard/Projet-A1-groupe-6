@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1510570197 source:c:\users\coren\documents\cesi\fondamentau scientifique\coeurdeleds\generationcode.c
+	"generationCode.h"
+
+1510570301 c:\users\coren\documents\cesi\fondamentau scientifique\coeurdeleds\generationcode.h
+	<stdio.h>
+	<stdlib.h>
+
+1510575762 source:c:\users\coren\documents\cesi\fondamentau scientifique\coeurdeleds\menu.c
+	"menu.h"
+
+1510575762 c:\users\coren\documents\cesi\fondamentau scientifique\coeurdeleds\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1510575830 source:c:\users\coren\documents\cesi\fondamentau scientifique\coeurdeleds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+	"menu.h"
+
+1510570197 c:\users\coren\documents\cesi\fondamentau scientifique\coeurdeleds\generationcode.c
+	"generationCode.h"
+
+1510571042 c:\users\coren\documents\cesi\fondamentau scientifique\coeurdeleds\menu.c
+	"menu.h"
+
+1510740512 source:c:\users\coren\documents\cesi\fondamentau scientifique\projet\coeurdeleds\generationcode.c
+	"generationCode.h"
+
+1510596506 c:\users\coren\documents\cesi\fondamentau scientifique\projet\coeurdeleds\generationcode.h
+	<stdio.h>
+	<stdlib.h>
+
+1510594385 source:c:\users\coren\documents\cesi\fondamentau scientifique\projet\coeurdeleds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1510575762 c:\users\coren\documents\cesi\fondamentau scientifique\projet\coeurdeleds\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1510674365 source:c:\users\coren\documents\cesi\fondamentau scientifique\projet\coeurdeleds\menu.c
+	"menu.h"
+
+1510824151 source:c:\users\coren\documents\cesi\fondamentauscientifique\projet\coeurdeleds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1510575762 c:\users\coren\documents\cesi\fondamentauscientifique\projet\coeurdeleds\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1510909949 source:c:\users\coren\documents\cesi\fondamentauscientifique\projet\coeurdeleds\generationcode.c
+	"generationCode.h"
+
+1510596506 c:\users\coren\documents\cesi\fondamentauscientifique\projet\coeurdeleds\generationcode.h
+	<stdio.h>
+	<stdlib.h>
+
+1510910029 source:c:\users\coren\documents\cesi\fondamentauscientifique\projet\coeurdeleds\menu.c
+	"menu.h"
+
